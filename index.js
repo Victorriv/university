@@ -1,7 +1,7 @@
     document.addEventListener('DOMContentLoaded', () => { // callback function, asychronous, arrow function
         document.getElementById('universities').addEventListener('click', university) // when you click 
         university();
-        changeBackground();
+        
         
 
     })
